@@ -7,7 +7,7 @@
 - <a href="https://drive.google.com/drive/folders/1rJR6QLBK9XA9AcMnHak703iKLz4AO1Rd?usp=share_link"><img src="https://img.shields.io/badge/-组织和架构-0ABF53?style=flat&logo="/></a>
 
 
-## EITCSSA
+## EIT CSSA Team
 
 <a href="https://github.com/Zhijie-He/EIT_CSSA/tree/EITCSSA/2020"><img src="https://img.shields.io/badge/-EITCSSA 2020-e2d810?style=flat&logo=Etsy&logoColor=white"/></a>
 <a href="https://github.com/Zhijie-He/EIT_CSSA/tree/EITCSSA/2021"><img src="https://img.shields.io/badge/-EITCSSA 2021-d9138a?style=flat&logo=Etsy&logoColor=white"/></a>
