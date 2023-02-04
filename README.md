@@ -17,4 +17,4 @@
 
 ## Contact
 
-<img src="images/EIT_CSSA_logo.png" width=100% height=250>
+<p style="center"><img src="images/EIT_CSSA_logo.png" ></p>
