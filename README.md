@@ -19,7 +19,7 @@
 
 <p>
 <a href="https://www.linkedin.com/company/eitcssa/"><img src="https://img.shields.io/badge/-EIT CSSA-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://weibo.com/u/5150019252"><img src="https://img.shields.io/badge/-EIT校友会CSSA-#E6162D?style=flat&logo=weibo&logoColor=white"/></a>
+<a href="https://weibo.com/u/5150019252"><img src="https://img.shields.io/badge/-EIT%E6%A0%A1%E5%8F%8B%E4%BC%9ACSSA-E6162D?style=flat&logo=SinaWeibo&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-EIT CSSA-09B83E?style=flat&logo=wechat&logoColor=white"/>
 
 </p>
