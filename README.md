@@ -1,6 +1,9 @@
 # EIT CSSA 
 
 ### 通用文件
+- <a href="https://drive.google.com/drive/folders/1JHx6ZpgWaVGaVDa5qZtWfpXtfvf-JszW?usp=share_link"><img src="https://img.shields.io/badge/-财务-05122A?style=flat&logo=money"/></a>
+- <a href="https://drive.google.com/drive/folders/1rJR6QLBK9XA9AcMnHak703iKLz4AO1Rd?usp=share_link"><img src="https://img.shields.io/badge/-组织和架构-05122A?style=flat&logo=money"/></a>
+
 
 ### EITCSSA
 
