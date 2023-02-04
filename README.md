@@ -24,4 +24,4 @@
 
 </p>
 
-<p style="center"><img src="images/EIT_CSSA_logo.png" ></p>
+<p style="center"><img src="https://github.com/Zhijie-He/EIT_CSSA/blob/main/images/EIT_CSSA_logo.png?raw=true?raw=true" ></p>
